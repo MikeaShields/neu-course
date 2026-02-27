@@ -1,4 +1,4 @@
-export type CategoryType = 'agile' | 'corporate' | 'tech';
+export type CategoryType = 'agile' | 'corporate' | 'tech' | 'traffic' | 'kids' | 'hockey';
 
 export interface BingoSquare {
   word: string;
